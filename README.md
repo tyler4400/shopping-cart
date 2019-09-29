@@ -1,29 +1,5 @@
 # shopping-cart
 
-## Project setup
-```
-npm install
-```
+开课吧第九期全栈视频教程
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 01课 Vue核心API&&组件设计
